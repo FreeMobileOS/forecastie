@@ -6,5 +6,6 @@
     android:initialLayout="@layout/time_widget"
     android:resizeMode="horizontal|vertical"
     android:widgetCategory="home_screen|keyguard"
-    android:previewImage="@drawable/widget_preview_time">
+    android:previewImage="@drawable/widget_preview_time"
+    android:background="@android:color/transparent">
 </appwidget-provider>
